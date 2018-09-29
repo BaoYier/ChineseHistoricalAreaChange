@@ -1,0 +1,15 @@
+{
+  "name": "ChineseHistoricalAreaChange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alienmao/ChineseHistoricalAreaChange.git",
+  "author": "HarveyQiu <qiushimao@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jsonminify": "^1.1.0",
+    "gulp-minify": "^3.1.0",
+    "zrender": "^4.0.5"
+  }
+}
